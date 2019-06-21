@@ -18,6 +18,8 @@ Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.o
 4. numpy
 5. scipy
 
+pretrained VGG16: Google Drive: [https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP](https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP)
+
 ==============
 
 # Results
