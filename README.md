@@ -24,5 +24,6 @@ Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.o
 
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/loss.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/bbox.jpg)|
 |-|-|
+|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/ironman.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/avg.jpg)|
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/1.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/2.jpg)|
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/3.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/4.jpg)|
