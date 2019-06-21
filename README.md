@@ -18,7 +18,7 @@ Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.o
 4. numpy
 5. scipy
 
-pretrained VGG16: Google Drive: [https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP](https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP)
+Pretrained VGG16: Google Drive: [https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP](https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP)
 
 ==============
 
@@ -29,3 +29,6 @@ pretrained VGG16: Google Drive: [https://drive.google.com/open?id=1LTptCY96ABAUl
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/ironman.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/avg.jpg)|
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/1.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/2.jpg)|
 |![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/3.jpg)|![](https://github.com/MingtaoGuo/yolo1_tensorflow/blob/master/IMGS/4.jpg)|
+
+# Reference
+[1]. Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
