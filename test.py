@@ -9,8 +9,8 @@ from draw_bbox import draw_bbox
 # os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 BATCH_SIZE = 1
-img_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/"
-xml_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/Annotations/"
+img_path = "./VOCdevkit/VOC2007/JPEGImages/"
+xml_path = "./VOCdevkit/VOC2007/Annotations/"
 OBJECT_NAMES = ["tvmonitor", "train", "sofa", "sheep", "cat", "chair", "bottle", "motorbike", "boat", "bird",
                    "person", "aeroplane", "dog", "pottedplant", "cow", "bus", "diningtable", "horse", "bicycle", "car"]
 
