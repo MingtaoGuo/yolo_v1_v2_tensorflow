@@ -3,6 +3,7 @@ Simple implementation of yolo v1 and yolo v2 by TensorFlow
 
 # Introduction
 Paper yolo v1: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+
 Paper yolo v2: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
 The code of yolo v2, we use 9 anchors which is calculated by k-means on COCO dataset.
