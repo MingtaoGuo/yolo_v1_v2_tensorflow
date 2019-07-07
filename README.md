@@ -1,8 +1,11 @@
 # yolo1_tensorflow
-Simple implementation of yolo v1 by TensorFlow
+Simple implementation of yolo v1 and yolo v2 by TensorFlow
 
 # Introduction
-Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+Paper yolo v1: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+Paper yolo v2: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
+
+The code of yolo v2, we use 9 anchors which is calculated by k-means on COCO dataset.
 
 |data augmentation|pretrained vgg16|pretrained darknet|
 |-|-|-|
@@ -34,3 +37,5 @@ Dataset: Pascal voc 2007: [https://pjreddie.com/media/files/VOCtrainval_06-Nov-2
 
 # Reference
 [1]. Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+
+[2]. Redmon J, Farhadi A. YOLO9000: better, faster, stronger[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 7263-7271.
