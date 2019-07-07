@@ -211,9 +211,3 @@ def img2mat(imgpath, xmlpath):
         print(idx)
     sio.savemat("pascal.mat", {"imgs": imgs, "bboxes": xml, "class": class_name})
 
-
-# if __name__ == "__main__":
-#     BATCH_SIZE = 32
-#     img_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/"
-#     xml_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/Annotations/"
-#     read_batch(img_path, xml_path, BATCH_SIZE)
