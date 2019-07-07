@@ -2,14 +2,11 @@ import tensorflow as tf
 from ops import yolo_loss, sub_net
 from utils import read_batch
 from vgg16 import vgg16
-# import os
-# os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-# os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 
 BATCH_SIZE = 32
-img_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/"
-xml_path = "E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/Annotations/"
+img_path = "./VOCdevkit/VOC2007/JPEGImages/"
+xml_path = "./VOCdevkit/VOC2007/Annotations/"
 
 
 def train():
