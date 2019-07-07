@@ -91,6 +91,4 @@ class yolo2:
 
 if __name__ == "__main__":
     yolo = yolo2()
-    yolo.detect("C:/Users/gmt/Desktop/30.jpg")
-    yolo.detect_and_save("E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/", "C:/Users/gmt/Desktop/detect_img/")
-    # test("E:/数据集/VOCtrainval_06-Nov-2007/VOCdevkit/VOC2007/JPEGImages/001144.jpg")
+    yolo.detect("./1.jpg")
